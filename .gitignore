@@ -4,9 +4,9 @@ Whitelist/coverage
 Whitelist/coverage.json
 Whitelist/typechain
 Whitelist/typechain-types
-Whitelist/.gitignore
 Whitelist/cache
 Whitelist/artifacts
+Whitelist/.gitignore
 
 NFTs/node_modules
 NFTs/.env
@@ -14,9 +14,9 @@ NFTs/coverage
 NFTs/coverage.json
 NFTs/typechain
 NFTs/typechain-types
-NFTs/.gitignore
 NFTs/cache
 NFTs/artifacts
+NFTs/.gitignore
 
 TokenICO/node_modules
 TokenICO/.env
@@ -24,9 +24,9 @@ TokenICO/coverage
 TokenICO/coverage.json
 TokenICO/typechain
 TokenICO/typechain-types
-TokenICO/.gitignore
 TokenICO/cache
 TokenICO/artifacts
+TokenICO/.gitignore
 
 DAO/node_modules
 DAO/.env
@@ -34,6 +34,6 @@ DAO/coverage
 DAO/coverage.json
 DAO/typechain
 DAO/typechain-types
-DAO/.gitignore
 DAO/cache
 DAO/artifacts
+DAO/.gitignore
